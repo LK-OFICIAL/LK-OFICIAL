@@ -1,6 +1,6 @@
 ## Olá eu sou LK OFICIAL , criador de conteúdo de programação e tecnologia!
 <div align="center">
-  <a href="https://github.com/fuckner1301">
+  <a href="https://github.com/LK-OFICIAL">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LK-OFICIAL&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LK-OFICIAL&layout=compact&langs_count=7&theme=dracula"/>
 </div>
