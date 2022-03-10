@@ -12,7 +12,7 @@
   <img align="center" alt="LK-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="LK-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="LK-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="LK-pic" height="150" style="border-radius:50px;" src="">
+  <img align="right" alt="LK-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/@me/940834296892112916/951283785981362197">
 </div>
   
   ##
